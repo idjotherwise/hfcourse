@@ -1,0 +1,1 @@
+print("Let's get started with the HuggingFace course! 🤗") 
